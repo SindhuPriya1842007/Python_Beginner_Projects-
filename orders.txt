@@ -1,0 +1,7 @@
+New Order:
+Expresso - $2.5
+Latte - $3.5
+Total: $6.0
+GST (5%) : $0.5 
+Final Total : $6.5
+--------------------
